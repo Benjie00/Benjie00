@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/Benjie00/Benjie00/blob/main/cropped.gif)
 <h1 align="center">I'm Benjie</h1>
-<h3 align="center">A trainee software engineer from the UK.</h3>
+<h3 align="center">A trainee software engineer from the UK</h3>
 <img align="right" alt="gif" src=https://github.com/Benjie00/Benjie00/blob/main/gif1.gif width="400" />
 
 
