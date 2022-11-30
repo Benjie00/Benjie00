@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Benjie</h1>
 <h3 align="center">A trainee software engineer from the UK.</h3>
+<img align=“right” alt=“gif” src=“https://github.com/Benjie00/Benjie00/blob/main/gif1.gif” width=“400”/>
 
 - 🔭 Recent Front-end project (React.js) [News Challenge](https://github.com/Benjie00/news-summary-challenge)
 
