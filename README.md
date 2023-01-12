@@ -2,20 +2,18 @@
 <h1 align="center">I'm Benjie</h1>
 <h3 align="center">A trainee software engineer from the UK</h3>
 
+- 📚 Full-stack project (React.js/Node.js) [chitter-challenge](https://github.com/Benjie00/chitter-challenge-public)
 
-<p style="text-align: center;">
-- 🔭 Recent Front-end project (React.js) [News Challenge](https://github.com/Benjie00/news-summary-challenge)
+- 🔭 Recent Front-end project (React.js) [News Challenge](https://github.com/Benjie00/news-summary-challenge-public)
 
-- 🔋 Recent Back-end project (Express) [Rock-Paper-Scissors Challenge](https://github.com/Benjie00/rock-paper-scissors-challenge)
+- 🔋 Recent Back-end project (Express) [Rock-Paper-Scissors Challenge](https://github.com/Benjie00/rock-paper-scissors-challenge-public)
 
-- 🤝 Java Project [Scrabble Challenge](https://github.com/Benjie00/scrabble-challenge-java)
+- 🤝 Java Project [Scrabble Challenge](https://github.com/Benjie00/scrabble-challenge-java-public)
 
-- 🌱 I’m currently learning **Java**
-
-
+- 🌱 I’m currently studing for Java Foundations 1Z0-811 Examination
 
 - 📫 How to reach me **bptracey@btinternet.com**
- </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
