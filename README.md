@@ -3,7 +3,7 @@
 <h3 align="center">A trainee software engineer from the UK</h3>
 
 
-
+<p style="text-align: center;">
 - 🔭 Recent Front-end project (React.js) [News Challenge](https://github.com/Benjie00/news-summary-challenge)
 
 - 🔋 Recent Back-end project (Express) [Rock-Paper-Scissors Challenge](https://github.com/Benjie00/rock-paper-scissors-challenge)
@@ -15,6 +15,7 @@
 
 
 - 📫 How to reach me **bptracey@btinternet.com**
+ </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
