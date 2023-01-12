@@ -6,11 +6,13 @@
 
 - 🔭 Recent Front-end project (React.js) [news challenge](https://github.com/Benjie00/news-summary-challenge-public)
 
-- 🔋 Recent Back-end project (Express) [rock-paper-scissors challenge](https://github.com/Benjie00/rock-paper-scissors-challenge-public)
+- 🔋 Recent Back-end project (Node.js, Express) [rock-paper-scissors challenge](https://github.com/Benjie00/rock-paper-scissors-challenge-public)
 
 - 🤝 Java Project [scrabble challenge](https://github.com/Benjie00/scrabble-challenge-java-public)
 
 - 🌱 I’m currently studing for Java Foundations 1Z0-811 Examination
+
+- 💻 I complete [leet code](https://leetcode.com/benjie00/) challenges for fun 
 
 - 📫 How to reach me **bptracey@btinternet.com**
 
