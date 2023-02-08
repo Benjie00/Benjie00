@@ -10,7 +10,7 @@
 
 - 🤝 Java Project [scrabble challenge](https://github.com/Benjie00/scrabble-challenge-java-public)
 
-- 🌱 I’m currently studing for Java Foundations 1Z0-811 Examination and building a chatbot
+- 🌱 I’m currently building a chatbot
 
 - 💻 I complete [leet code](https://leetcode.com/benjie00/) challenges for fun 
 
