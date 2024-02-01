@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/Benjie00/Benjie00/blob/main/cropped.gif)
-<h1 align="center">I'm Benjie</h1>
-<h3 align="center">A software engineer trainee from the UK</h3>
+<h1 align="center">I'm Ben</h1>
+<h3 align="center"> Software Engineer </h3>
 
 - 📚 Full-stack project (React.js/Node.js) [chitter-challenge](https://github.com/Benjie00/chitter-challenge-public)
 
